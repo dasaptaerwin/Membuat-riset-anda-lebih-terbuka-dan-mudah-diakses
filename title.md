@@ -1,1 +1,1 @@
-Pentingkah Scopus?
+Pentingkah Scopus: analisis pro dan kontra 
