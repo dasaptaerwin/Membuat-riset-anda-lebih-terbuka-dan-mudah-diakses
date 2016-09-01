@@ -1,0 +1,1 @@
+Pentingkah Scopus?
