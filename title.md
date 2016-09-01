@@ -1,1 +1,1 @@
-Pentingkah Scopus: analisis pro dan kontra 
+Bagaimana agar riset anda lebih terbuka? 
