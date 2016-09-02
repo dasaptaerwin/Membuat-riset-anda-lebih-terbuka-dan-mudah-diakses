@@ -2,7 +2,7 @@
 
 Kami berdua mencoba memulai proyek "crowd-source writing" ini sebagai uji coba. Apakah bisa sebuah makalah dilahirkan dari pikiran sekian banyak orang. Tema yang kami angkat adalah bagaimana membuat riset anda lebih terbuka dan mudah diakses. Daripada terus memikirkan pro dan kontra dan over-usage Scopus, maka kami dan tentunya banyak dari anda yang ingin membuat hasil risetnya lebih mudah diakses, dengan atau tanpa Scopus. 
 
-Proyek ini sudah mulai saya tulis _outline_-nya menggunakan platform [Authorea](www.authorea.com), sebuah platform terbuka untuk menulis secara kolaboratif dengan format "Markdown". Namun apapun formatnya jangan dirisaukan. 
+Proyek ini sudah mulai saya tulis _outline_-nya menggunakan platform [Authorea](www.authorea.com), sebuah platform terbuka untuk menulis secara kolaboratif dengan format [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Namun apapun formatnya jangan dirisaukan. 
 
 Prosedur untuk berkontribusi:
 
