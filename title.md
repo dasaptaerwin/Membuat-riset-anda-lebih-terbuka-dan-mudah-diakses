@@ -1,1 +1,1 @@
-Bagaimana agar riset anda lebih terbuka? 
+Membuat riset anda lebih terbuka dan mudah diakses
