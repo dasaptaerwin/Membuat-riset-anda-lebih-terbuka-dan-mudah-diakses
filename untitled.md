@@ -1,6 +1,6 @@
 # Pengantar untuk para kontributor
 
-Kami berdua mencoba memulai proyek "crowd-source writing" ini sebagai uji coba. Apakah bisa sebuah makalah dilahirkan dari pikiran sekian banyak orang. Tema yang kami angkat adalah bagaimana membuat riset anda lebih terbuka dan mudah diakses. Daripada terus memikirkan pro dan kontra dan over-usage Scopus, maka kami dan tentunya banyak dari anda yang ingin membuat hasil risetnya lebih mudah diakses, dengan atau tanpa Scopus. 
+Kami berdua mencoba memulai proyek "crowd-source writing" ini sebagai uji coba. Apakah bisa sebuah makalah dilahirkan dari pikiran sekian banyak orang. Tema yang kami angkat adalah bagaimana membuat riset anda lebih terbuka dan mudah diakses. Daripada terus memikirkan pro dan kontra dan _over-usage_ Scopus, maka kami dan tentunya banyak dari anda yang ingin membuat hasil risetnya lebih mudah diakses, dengan atau tanpa Scopus. 
 
 Proyek ini sudah mulai saya tulis _outline_-nya menggunakan platform [Authorea](www.authorea.com), sebuah platform terbuka untuk menulis secara kolaboratif dengan format [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Namun apapun formatnya jangan dirisaukan. 
 
@@ -106,6 +106,21 @@ Apakah menurut anda sitasi hasil riset dapat ditingkatkan?
 
 
 # Beberapa modifikasi dalam alur kerja riset 
+
+## Gunakan piranti lunak _open source_
+
+Untuk menjamin prinsip _reproducibility_ dan _replicability_, mengirimkan makalah ke media _open access_ adalah baru langkah awal. Selain itu anda perlu juga menggunakan aplikasi atau piranti lunak (P/L) yang _open source_. Mengapa? tidak lain agar peneliti lain yang tidak memiliki registrasi atau lisensi piranti lunak seperti yang anda gunakan, dapat dengan mudah mengunduh P/L yang sama.
+
+## Bagikan data dan teknik analisisnya 
+
+
+## Gunakan repository data _online_ yang _open source_
+
+
+## Gunakan media sosial untuk mempromosikan karya ilmiah 
+
+[Membuat data geosains lebih mudah diakses dan dirujuk](https://bersains.files.wordpress.com/2016/04/bersains-vol-2-04-data-repository.pdf)
+
 
 
 # Kesimpulan
