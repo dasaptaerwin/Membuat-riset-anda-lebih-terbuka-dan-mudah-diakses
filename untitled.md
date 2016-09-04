@@ -40,11 +40,9 @@ Cerita tentang _Post Publication Peer-Review_ dan perbandingannya dengan _Pre Pu
 
 Sementara itu media sosial juga mengisi kekosongan antara peneliti/penulis dengan pembaca. Twitter dalam hal ini memimpin untuk diseminasi ilmu. Sebuah artikel yang dimuat di [Blog _Nature Publishing Group_](http://www.nature.com/news/online-collaboration-scientists-and-the-social-network-1.15711) telah menyusun karakter berbagai media sosial dalam hal komunikasi keilmuan atau _science communication_. Kini hasil riset sesederhana apapun akan segera dapat diketahui oleh peneliti di belahan dunia yang lain. 
 
-`insert: Kecepatan publikasi vs preprints, plus contoh ArXiv dan bidang lainnya.`
+Untuk beberapa bidang seperti kedokteran, ilmu kesehatan, paleontologi, yang melibatkan penemuan invensi terobosan, maka waktu antara 3 - 6 bulan dari makalah dikirim ke redaksi, direview, hingga dinyatakan diterima adalah waktu yang sangat panjang. Untuk mensiasati itu, saat ini ada makalah berjenis _preprint_ atau _eprint_ sebagai jembatan agar para peneliti dapat mengklaim hasil kerjanya di saat proses _peer-review_ sedang berjalan. Atau saat ini ada pola _peer-review_ baru, yakni _post publication peer-review_. 
 
-`insert: [The Winnower](thewinnower.com)`
-
-
+Beberapa bentuk _startup_ di bidang akademik memperlihatkan model bisnis yang unit. Salah satunya adalah [The Winnower](thewinnower.com). 
 
 Walaupun perkembangan ini bertujuan akhir mengerucut pada keinginan untuk membuat sains lebih terbuka bagi semua orang, sehingga akan lebih banyak terjali kolaborasi yang berdampak kepada pengembangan ilmu yang lebih signifikan, namun tentunya perlu disikapi secara bijak.
 
@@ -122,6 +120,8 @@ Di saat kita masih bersilang-pendapat tentang perlukah data mentah disebarluaska
 5. [Dataverse project](http://dataverse.org/) and [Datacite project](http://datacite.org).
 
 Dalam lima organisasi tersebut di atas, data dianggap lebih penting dari makalah ilmiah itu sendiri. Mengapa? Karena bila data tersedia, maka data dapat digunakan ulang (_data reuse_) untuk dianalisis ulang (_reproducible_) atau diaplikasikan untuk hal lain (_replicable_).
+
+Untuk lebih meningkatkan peluang untuk diulang dan direplikasi, maka metode juga perlu diunggah secara lengkap dan transparan. Setiap prosedur dan pengujian perlu dijelaskan secara lengkap, sehingga peneliti lain dapat dengan mudah mengikuti instruksinya.
 
 Beberapa penjelasan lebih rinci berkaitan dengan data geosains dapat dibaca di artikel ini [Membuat data geosains lebih mudah diakses dan dirujuk](https://bersains.files.wordpress.com/2016/04/bersains-vol-2-04-data-repository.pdf)
 
