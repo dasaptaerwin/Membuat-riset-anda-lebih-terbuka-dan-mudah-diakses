@@ -118,8 +118,10 @@ Di saat kita masih bersilang-pendapat tentang perlukah data mentah disebarluaska
 1. [The Vienna Principles: A Vision for Scholarly Communication in the 21st Century](https://zenodo.org/record/55597/files/ViennaPrinciples_v1_2016.pdf),
 2. [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/read),
 3. [Wikidata Initiatives](https://en.wikipedia.org/wiki/Wikidata),
-4. [Open government data principles](https://opengovdata.org/),
-5. 
+4. [Open government data principles](https://opengovdata.org/) dan [The open gov't data book](https://opengovdata.io/),
+5. [Dataverse project](http://dataverse.org/) and [Datacite project](http://datacite.org).
+
+Dalam lima organisasi tersebut di atas, data dianggap lebih penting dari makalah ilmiah itu sendiri. Mengapa? Karena bila data tersedia, maka data dapat digunakan ulang (_data reuse_) untuk dianalisis ulang (_reproducible_) atau diaplikasikan untuk hal lain (_replicable_).
 
 Beberapa penjelasan lebih rinci berkaitan dengan data geosains dapat dibaca di artikel ini [Membuat data geosains lebih mudah diakses dan dirujuk](https://bersains.files.wordpress.com/2016/04/bersains-vol-2-04-data-repository.pdf)
 
