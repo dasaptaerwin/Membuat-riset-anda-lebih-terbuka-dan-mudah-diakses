@@ -1,1 +1,1 @@
-Membuat riset anda lebih terbuka dan mudah diakses
+Penerapan _open science_: Membuat riset lebih terbuka, mudah diakses, dan meningkatkan dampak saintifik
