@@ -18,4 +18,4 @@ Untuk beberapa bidang seperti kedokteran, ilmu kesehatan, paleontologi, yang mel
 
 Beberapa bentuk _startup_ di bidang akademik memperlihatkan model bisnis yang unik. Salah satunya adalah [The Winnower](thewinnower.com). 
 
-Walaupun perkembangan ini bertujuan akhir mengerucut pada keinginan untuk membuat sains lebih terbuka bagi semua orang, sehingga akan lebih banyak terjali kolaborasi yang berdampak kepada pengembangan ilmu yang lebih signifikan, namun tentunya perlu disikapi secara bijak.
+Walaupun perkembangan ini bertujuan akhir mengerucut pada keinginan untuk membuat sains lebih terbuka bagi semua orang, sehingga akan lebih banyak terjalin kolaborasi yang berdampak kepada pengembangan ilmu yang lebih signifikan, namun tentunya perlu disikapi secara bijak.
