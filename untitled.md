@@ -61,6 +61,7 @@ Walaupun perkembangan ini bertujuan akhir mengerucut pada keinginan untuk membua
 ## Bagaimanakah alur kerja riset anda saat ini?
 
 
+
 ## Apakah hasil riset anda saat ini telah terbuka dan mudah diakses?
 
 
