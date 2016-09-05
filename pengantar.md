@@ -127,6 +127,3 @@ Masing-masing media sosial (medsos) memiliki karakter tersendiri [Online collabo
 
 
 
-# Kesimpulan
-
-
