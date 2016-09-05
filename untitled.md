@@ -24,9 +24,9 @@ Kita coba ya!
 
 ---
 
-** Ringkasan **
+**Ringkasan**
 
-`Bagian ini sengaja kami tulis lebih dulu untuk menentukan alur bercerita`.
+_Bagian ini sengaja kami tulis lebih dulu untuk menentukan alur bercerita_.
 
 Karya ilmiah adalah obyek pertaruhan bagi para peneliti dan dosen, untuk menetapkan fokus riset dan reputasi, serta karir akademik. Namun demikian, saat ini karya ilmiah masih berputar pada jenis konvensional, yakni laporan hasil riset, makalah ilmiah yang dimuat di dalam jurnal, makalah ilmiah yang disampaikan dalam seminar/konferensi, atau paten. Sementara itu perkembangan ilmu di bagian lain dunia sudah sangat pesat. Konsep berpikirnya pun telah bergeser dari riset sebagai sumber daya milik pribadi atau golongan sehingga sifatnya tertutup, menjadi riset sebagai komoditas bersama. 
 
