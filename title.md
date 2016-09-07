@@ -1,1 +1,1 @@
-Penerapan _open science_: Membuat riset lebih terbuka, mudah diakses, dan meningkatkan dampak saintifik
+Penerapan _open science_ di Indonesia agar riset lebih terbuka, mudah diakses, dan meningkatkan dampak saintifik
