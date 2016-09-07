@@ -5,11 +5,13 @@
 
 # Pendahuluan
 
+Riset adalah salah satu modal utama pengembangan bangsa. Tanpa riset maka ilmu tidak akan berkembang dan pola pikir masyarakatnya pun akan terbelenggu dengan pandangan-pandangan lama.
 
+`bagian ini perlu rujukan`
 
 # Ulasan kondisi alur kerja riset saat ini
 
-## Bagaimanakah alur kerja riset anda saat ini?
+Saat ini alur kerja riset mengikuti pola yang selama ini dianut, sejak mencari ide, mengambil data, menganalisis, menginterpretasi, dan melaporkan. Pola kerja periset yang kami amati masih bersifat _offline_. Seluruh hasil kerja tersimpan dalam _hard drive_ masing-masing periset dan yang pada saatnya akan digabungkan secara _offline_ pula.  Tipikal pola kerja adalah sebagai berikut:
 
 
 
@@ -18,7 +20,8 @@
 
 ## Apa sajakah indikator kinerja riset anda saat ini?
 
-1. Laporan: laporan adalah bentuk dokumen paling tradisional sebagai hasil riset. Biasanya dokumen ini diberi status `tidak dipublikasikan` atau dalam Bahasa Inggris disebut _close report_. Namun demikian, bila laporan suatu proyek riset masuk kategori ini, maka dokumen lengkapnya tidak akan dapat dibaca oleh masyarakat sebelum dipublikasikan. Contoh lain untuk hasil studi skripsi/tesis/disertasi juga akan bernasib sama, tidak akan dibaca oleh masyarakat, hingga ada niatan untuk menuliskannya kembali dalam bentuk makalah ilmiah pada jurnal atau pada seminar.
+Berikut ini adalah beberapa indikator hasil riset yang selama ini kita kenal:
+1. Laporan: laporan adalah bentuk dokumen paling tradisional sebagai hasil riset. Biasanya dokumen ini diberi status _tidak dipublikasikan_ atau dalam Bahasa Inggris disebut _closed report_. Namun demikian, bila laporan suatu proyek riset masuk kategori ini, maka dokumen lengkapnya tidak akan dapat dibaca oleh masyarakat sebelum dipublikasikan. Contoh lain untuk hasil studi skripsi/tesis/disertasi juga akan bernasib sama, tidak akan dibaca oleh masyarakat, hingga ada niatan untuk menuliskannya kembali dalam bentuk makalah ilmiah pada jurnal atau pada seminar.
 2. Dataset: data adalah bahan baku riset. Bila tidak ada dapat, maka tidak akan ada yang dianalisis. Hingga saat ini, data juga masih masuk kategori hasil riset yang dibatasi sirkulasinya. Bilamanapun telah dipublikasikan ada pandangan lama yang ingin membatasi penyajiannya. Umumnya data akan hanya muncul sebagai nilai rata-rata, maksimum, minimum.
 3. Makalah ilmiah: dokumen ini saat ini adalah salah satu output yang diperjanjikan saat kita mengusulkan proposal riset. `bla bla bla`.
 4. Seminar: `bla bla bla`  
@@ -27,9 +30,13 @@
 
 # Pendekatan `open science` 
 
+`bagian ini perlu rujukan`
+
 ## Apakah anda telah memahami makna `open science`?
+`bagian ini perlu rujukan`
 
 ### Definisi
+`bagian ini perlu rujukan`
 
 
 ### Komponennya
