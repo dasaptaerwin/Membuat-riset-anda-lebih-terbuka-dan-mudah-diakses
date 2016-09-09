@@ -7,6 +7,43 @@
 
 Riset adalah salah satu modal utama pengembangan bangsa. Tanpa riset maka ilmu tidak akan berkembang dan pola pikir masyarakatnya pun akan terbelenggu dengan pandangan-pandangan lama.
 
+Hasil riset yang terjamin kualitasnya pada dasarnya memuat minimum dua
+hal, yakni logika koheren yang memadai serta ketangguhannya menyajikan
+eviden yang sesuai dengan kenyataan. Keduanya terintegrasi dengan
+cantik dan mencerminkan kontribusi hasil riset terhadap tubuh
+pengetahuan. Oleh karena itu, penguasaan terhadap perkembangan
+substantif bidang ilmu serta metodologi riset mutlak diperlukan
+seiring kita berurusan dengan "memajang" atau diseminasi hasil riset.
+Dalam hal ini, riset perlu dilihat sebagai sebuah siklus. Hasil sebuah
+riset mesti dipandang sebagai stimulasi untuk mengawali riset
+selanjutnya (dorongan sentrifugal) serta terus-menerus memperbaiki
+konstruksi riset itu sendiri (dorongan sentripetal).
+
+Siklus riset sesungguhnya merupakan sebuah proses sosial yang
+terus-menerus mengasah ketajaman logis, metodologis, dan aksiologis
+riset itu. Sebagaimana hasil riset perlu selalu ditinjau konteksnya
+guna memperoleh pemahaman yang utuh, proses riset pun tidak terjadi
+dalam ruang hampa. Proses riset mesti dipandang sebagai sebuah
+historisitas yang melibatkan lima hal, yakni periset, subjek/objek
+yang diteliti, komunitas periset, komunitas penerbit hasil riset,
+serta komunitas penggunanya. Historisitas mencerminkan dialog
+berkelanjutan antar kelimanya. Kita dapat membayangkan sebuah kondisi
+ideal bahwa kelimanya berlomba-lomba dengan perannya masing-masing
+untuk bersinergi mencapai common good (kebaikan bersama). Dengan
+demikian, riset merupakan sebuah ajang dinamis yang tidak boleh
+direbut atau dikuasai oleh satu pihak saja. Partisipasi semua pihak
+pada titik proses mana saja sangat patut untuk memperoleh tempat dan
+apresiasi.
+
+Jika begitu, kualitas apakah yang perlu dimiliki oleh para periset dan
+komunitasnya? Tidak lain adalah jiwa keterbukaan. Jiwa-jiwa yang
+terbuka secara organik akan menyusun sistem-sistem yang terbuka,
+demokratis, dan kolaboratif. Diduga bahwa faktor penghambat pertama
+dari proliferasi proses dan hasil riset adalah faktor psikologis.
+Untuk itu, tulisan ini dibuat untuk, diantaranya, menawarkan sebuah
+cara pandang yang hendak membongkar ketertutupan dalam seluruh lini
+proses riset.
+
 `bagian ini perlu rujukan`
 
 # Ulasan kondisi alur kerja riset saat ini
