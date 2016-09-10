@@ -7,6 +7,9 @@ Untuk menjamin prinsip _reproducibility_ dan _replicability_, mengirimkan makala
 ### Piranti lunak _open source_
 
 * Analisa statistik, analisa numerik, visualisasi: [Microsoft R Open](https://mran.revolutionanalytics.com/open/), [RStudio](http://www.rstudio.com/products/rstudio/), [Shiny RStudio](http://shiny.rstudio.com)
+* Analisis spasial: QGIS, GRASSGIS, dan aplikasi lainnya yang tergabung dalam komunitas OSGEO.
+* _Reference manager_: Zotero, Mendeley, dll.
+* 
 
 ## Bagikan data dan teknik analisisnya 
 
