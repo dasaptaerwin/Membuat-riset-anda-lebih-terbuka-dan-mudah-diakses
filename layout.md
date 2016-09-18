@@ -1,6 +1,7 @@
 pengantar.md
 Ringkasan.md
 Abstrak.md
+figures/open-access-dissemination-RRI-crop/open-access-dissemination-RRI-crop.png
 figures/open-access-dissemination-RRI/open-access-dissemination-RRI.png
 memahami-open-science.md
 figures/interactive-figure-1473074066514/figure.html
