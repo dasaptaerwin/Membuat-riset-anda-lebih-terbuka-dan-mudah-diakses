@@ -8,8 +8,8 @@ Untuk menjamin prinsip _reproducibility_ dan _replicability_, mengirimkan makala
 
 * Analisa statistik, analisa numerik, visualisasi: [Microsoft R Open](https://mran.revolutionanalytics.com/open/), [RStudio](http://www.rstudio.com/products/rstudio/), [Shiny RStudio](http://shiny.rstudio.com)
 * Analisis spasial: QGIS, GRASSGIS, dan aplikasi lainnya yang tergabung dalam komunitas OSGEO.
-* _Reference manager_: Zotero, Mendeley, dll.
-* 
+* _Reference manager_: [Zotero](www.zotero.org), [Mendeley](www.mendeley.com), dll. Mendeley kami masukkan karena banyak sekali penggunanya di Indonesia. Walaupun sebenarnya gratis, tapi Mendeley tidak _open source_. Pengembangannya akan sangat bergantung kepada tim internalnya.  
+* Pengolah kata dan tabel: [LibreOffice](www.libreoffice.org), [OpenOffice](www.openoffice.org), atau bagi peneliti bidang tertentu penggunaan [LATEX](www.latex-project.org) dan [Markdown](http://daringfireball.net/projects/markdown/basics) sangat tinggi.
 
 ## Bagikan data dan teknik analisisnya 
 
