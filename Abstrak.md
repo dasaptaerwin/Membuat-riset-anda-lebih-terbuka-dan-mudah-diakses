@@ -88,6 +88,54 @@ Berikut ini adalah beberapa indikator hasil riset yang selama ini kita kenal:
 
 ### Implementasinya
 
+## Diseminasi/publikasi atau eksploitasi/proteksi?
+
+Rujukan di Horizon 2020: http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf
+
+TODO: membutuhkan translasi dan penyesuaian
+
+Research data
+
+Refers to information, in particular facts or numbers, collected to be examined and
+considered as a basis for reasoning, discussion, or calculation.
+In a research context, examples of data include statistics, results of experiments,
+measurements, observations resulting from fieldwork, survey results, interview
+recordings and images. The focus is on research data that is available in digital form.
+Users can normally access, mine, exploit, reproduce and disseminate openly
+accessible research data free of charge.
+
+
+
+Why have open access to publications and data in Horizon 2020?
+
+Modern research builds on extensive scientific dialogue and advances by improving
+earlier work. The Europe 2020 strategy for a smart, sustainable and inclusive
+economy underlines the central role of knowledge and innovation in generating
+growth. Broader access to scientific publications and data therefore helps to:
+
+* build on previous research results (improved quality of results)
+* encourage collaboration and avoid duplication of effort (greater efficiency)
+* speed up innovation (faster progress to market means faster growth)
+* involve citizens and society (improved transparency of the scientific process).
+
+This is why the EU wants to improve access to scientific information and to boost the
+benefits of public investment in research funded under Horizon 2020.
+
+The Commission considers that there should be no need to pay for information
+funded from the public purse each time it is accessed or used. Moreover, it should
+benefit European businesses and the public to the full.
+
+This means making publicly-funded scientific information available online, at no
+extra cost, to European researchers, innovative industries and the public, while
+ensuring that it is preserved in the long term.
+
+Under Horizon 2020, the legal basis for open access is laid down in the Framework
+Programme and its Rules for Participation. These principles are translated into
+specific requirements in the Model Grant Agreement and in the Horizon 2020 work
+programmes.
+
+The Annotated Model Grant Agreement provides specific explanations of the Model
+Grant Agreement. These guidelines build on these documents.
 
 ## Bagaimana periset dunia memahami `open science`
 
