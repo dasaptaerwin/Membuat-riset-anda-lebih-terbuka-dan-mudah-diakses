@@ -1,1 +1,1 @@
-Replace this text with your caption
+Bagan: Akses terbuka ke publikasi dan penelitian ilmiah dalam konteks luas diseminasi dan eksploitasi
