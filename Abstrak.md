@@ -50,12 +50,11 @@ proses riset.
 
 Saat ini alur kerja riset mengikuti pola yang selama ini dianut, sejak mencari ide, mengambil data, menganalisis, menginterpretasi, dan melaporkan. Pola kerja periset yang kami amati masih bersifat _offline_. Seluruh hasil kerja tersimpan dalam _hard drive_ masing-masing periset dan yang pada saatnya akan digabungkan secara _offline_ pula.  Tipikal pola kerja adalah sebagai berikut:
 
-* bekerja secara _offline_, kolaborasi juga dilakukan secara offline,
-* sedikit kemajuan dalam kolaborasi didapatkan dengan menggunakan Google Docs,
-* piranti lunak yang digunakan umumnya yang berbayar, misal: Microsoft Office, SPSS, ArcGIS, Matlab, dan piranti lunak berbayar lainnya. Sangat sedikit institusi di Indonesia yang memiliki lisensi institusional terhadap penggunaan piranti lunak-piranti lunak tersebut.
-* data diolah dalam format binary dengan piranti lunak berbayar, misal xls dari Microsoft Excel, sav dari SPSS, dll,
-* data disimpan secara _off line_ begitu pula media _backup_nya. Peredaran datapun dibatasi,
-* laporan ditulis dan diedarkan secara terbatas,
+* **bekerja secara _offline_**: modus yang paling sering dilakukan adalah bekerja secara _off line_. Bilamana terjadi kolaborasi, dilakukan dengan cara pertukaran file melalui surel atau _usb drive_. Sedikit kemajuan terjadi saat ini karena penggunaan Google Drive (produk Google) atau OneDrive (produk Microsoft),
+* **bekerja dengan piranti lunak berbayar**: piranti lunak yang digunakan umumnya yang berbayar, misal: Microsoft Office, SPSS, ArcGIS, Matlab, dan piranti lunak berbayar lainnya. Sangat sedikit institusi di Indonesia yang memiliki lisensi institusional terhadap penggunaan piranti lunak-piranti lunak tersebut.
+* **bekerja dengan format _binary_**: data diolah dalam format binary dengan piranti lunak berbayar, misal xls dari Microsoft Excel, sav dari SPSS, dll,
+* **bekerja dengan media penyimpanan data _off line_**: penyimpanan file dilakukan secara _off line_, begitu pula media _backup_nya. Peredaran datapun dibatasi di tim penulis saja,
+* **bekerja dengan sistem diseminasi terbatas**: hasil riset ditulis sebagai laporan dan diedarkan secara terbatas. Kondisi sedikit lebih baik saat hasil riset disampaikan dalam seminar tertutup,
 * `silahkan isi dengan karakter lainnya`
 
 
