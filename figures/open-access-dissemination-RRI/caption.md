@@ -1,1 +1,1 @@
-Replace this text with your caption
+Graph: Akses terbuka ke publikasi dan penelitian ilmiah dalam konteks luas diseminasi dan eksploitasi
