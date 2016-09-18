@@ -94,7 +94,7 @@ Rujukan di Horizon 2020: http://ec.europa.eu/research/participants/data/ref/h202
 
 TODO: membutuhkan translasi dan penyesuaian
 
-Research data
+**Research data**
 
 Refers to information, in particular facts or numbers, collected to be examined and
 considered as a basis for reasoning, discussion, or calculation.
