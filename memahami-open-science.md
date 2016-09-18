@@ -1,4 +1,4 @@
-Why have open access to publications and data in Horizon 2020?
+## Why have open access to publications and data in Horizon 2020?
 
 Modern research builds on extensive scientific dialogue and advances by improving
 earlier work. The Europe 2020 strategy for a smart, sustainable and inclusive
