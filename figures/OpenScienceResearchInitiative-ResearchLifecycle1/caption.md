@@ -1,1 +1,1 @@
-Replace this text with your caption
+Keterbukaan pada berbagai tahap riset [Open Science and Research Initiative, 2014](https://avointiede.fi/documents/14273/0/Open+Science+and+Research+Handbook+v.1.0/50316d5d-440b-4496-b039-2997663afff8)
