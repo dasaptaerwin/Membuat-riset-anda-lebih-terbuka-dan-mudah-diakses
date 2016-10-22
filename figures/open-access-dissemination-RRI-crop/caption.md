@@ -1,1 +1,1 @@
-Bagan: Akses terbuka ke publikasi dan penelitian ilmiah dalam konteks luas diseminasi dan eksploitasi
+Akses terbuka ke publikasi dan penelitian ilmiah dalam konteks luas diseminasi dan eksploitasi
