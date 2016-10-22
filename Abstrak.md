@@ -81,7 +81,11 @@ Walaupun pada dasarnya prinsip dasar dari sains adalah kejujuran dan keterbukaan
 
 Terdapat berbagai definisi yang pada dasarnya saling melengkapi. Berikut adalah beberapa diantaranya.
 
-Menurut [Wikipedia](https://en.wikipedia.org/wiki/Open_science), `Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society, amateur or professional. It encompasses practices such as publishing open research, campaigning for open access, encouraging scientists to practice open notebook science, and generally making it easier to publish and communicate scientific knowledge.`
+Menurut [Wikipedia](https://en.wikipedia.org/wiki/Open_science), "Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society, amateur or professional. It encompasses practices such as publishing open research, campaigning for open access, encouraging scientists to practice open notebook science, and generally making it easier to publish and communicate scientific knowledge."
+
+Menurut [Situs FOSTER Open Science](https://www.fosteropenscience.eu/content/what-open-science-introduction), "Open Science is about extending the principles of openness to the whole research cycle (see figure 1), fostering sharing and collaboration as early as possible thus entailing a systemic change to the way science and research is done."
+
+
 
 Menurut [Situs _The Open Science Project_](http://www.openscience.org/blog/?p=269) _open science_ mengusung tema:
 
@@ -89,6 +93,7 @@ Menurut [Situs _The Open Science Project_](http://www.openscience.org/blog/?p=26
 - **Public availability and reusability of data**: ketersediaan data kepada publik, sehingga dapat digunakan ulang untuk berbagai keperluan;
 - **Public accessibility and transparency of scientific communication**: hasil riset disampaikan secara terbuka dan transparan kepada publik;
 - **Using web-based/open source tools to facilitate scientific collaboration**: dalam implementasinya, riset menggunakan piranti lunak _open source_ atau _web-based_ untuk menggalang kolaborasi.
+
 
 ## Komponennya
 
