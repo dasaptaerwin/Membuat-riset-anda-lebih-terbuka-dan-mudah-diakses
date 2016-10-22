@@ -72,21 +72,28 @@ Berikut ini adalah beberapa indikator hasil riset yang selama ini kita kenal:
 5. **Sitasi**: Angka sitasi akan bertambah saat ada makalah lain yang menggunakan makalah kita sebagai rujukan. Pertanyaan yang sering muncul adalah, "Apakah sitasi dapat ditingkatkan?" Untuk menjawabnya akan ada beberapa pertanyaan yang mendasar. Pada saat anda menulis makalah yang kemudian tampil di suatu media, siapa lagi yang mengetahuinya selain anda dan tim penulis lainnya?, kita tahu waktu orang untuk membaca sangatlah pendek, bagaimana kita dapat mengemas isi makalah agar menarik pembaca hingga akhir, atau sudahkan kita memberikan abstrak yang menggambarkan isi makalah secara keseluruhan, dll. Saat kita menjawab beberapa pertanyaan susulan tersebut, maka akan muncul beberapa hal penting: bahwa makalah tidak perlu `dipromosikan`, agar sebanyak mungkin orang tahu keberadaan dokumen ilmiah tersebut; bahwa makalah perlu dibuat semenarik mungkin sejak awal melalui judul dan abstrak, serta bahwa diperlukan berbagai faktor penarik di luar isi makalah itu sendiri, seperti: rekaman video pengambilan data, data mentah yang disebarkan luaskan, versi lebih ringan dari makalah yang ditulis sebagai _blog post_, dll.  Anda memang harus lebih kreatif lagi untuk menekankan pentingnya makalah anda. Pekerjaan tidak berhenti saat makalah telah terbit.
 
 
-# Pendekatan `open science` 
+# Pendekatan _open science_
 
-`bagian ini perlu rujukan`
-
-## Apakah anda telah memahami makna `open science`?
-`bagian ini perlu rujukan`
-
-### Definisi
-`bagian ini perlu rujukan`
+Walaupun pada dasarnya prinsip dasar dari sains adalah kejujuran dan keterbukaan, tetapi pada prakteknya telah terjadi deviasi. Berikut ini adalah beberapa panduan bagi kita untuk memahami konsep _open science_.
 
 
-### Komponennya
+## Definisi
+
+Terdapat berbagai definisi yang pada dasarnya saling melengkapi. Berikut adalah beberapa diantaranya.
+
+Menurut [Wikipedia](https://en.wikipedia.org/wiki/Open_science), `Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society, amateur or professional. It encompasses practices such as publishing open research, campaigning for open access, encouraging scientists to practice open notebook science, and generally making it easier to publish and communicate scientific knowledge.`
+
+Menurut [Situs _The Open Science Project_](http://www.openscience.org/blog/?p=269) _open science_ mengusung tema:
+
+- **Transparency**: transparansi dalam metode, observasi, dan pengumpulan data;
+- **Public availability and reusability of data**: ketersediaan data kepada publik, sehingga dapat digunakan ulang untuk berbagai keperluan;
+- **Public accessibility and transparency of scientific communication**: hasil riset disampaikan secara terbuka dan transparan kepada publik;
+- **Using web-based/open source tools to facilitate scientific collaboration**: dalam implementasinya, riset menggunakan piranti lunak _open source_ atau _web-based_ untuk menggalang kolaborasi.
+
+## Komponennya
 
 
-### Implementasinya
+## Implementasinya
 
 ## Diseminasi/publikasi atau eksploitasi/proteksi?
 
