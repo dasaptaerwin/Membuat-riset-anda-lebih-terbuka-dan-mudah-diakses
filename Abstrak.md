@@ -10,7 +10,7 @@ Siklus riset sesungguhnya merupakan sebuah proses sosial yang terus-menerus meng
 
 Jika begitu, kualitas dasar apakah yang perlu dimiliki oleh para periset dan komunitasnya? Tidak lain adalah kultur terbuka, tidak hanya membuka akses tapi juga membuka diri terhadap kritik dan masukan. Jiwa-jiwa yang terbuka secara organik akan menyusun sistem-sistem yang terbuka, demokratis, dan kolaboratif. Diduga bahwa faktor penghambat pertama dari proliferasi proses dan hasil riset adalah faktor psikologis. Untuk itu, tulisan ini dibuat untuk, diantaranya, menawarkan sebuah cara pandang yang hendak membongkar ketertutupan dalam seluruh lini proses riset.
 
-`bagian ini perlu rujukar`
+`bagian ini perlu rujukan`
 
 # Ulasan kondisi alur kerja riset saat ini
 
