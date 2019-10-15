@@ -8,7 +8,7 @@ Hasil riset yang terjamin kualitasnya pada dasarnya memuat minimum dua hal, yakn
 
 Siklus riset sesungguhnya merupakan sebuah proses sosial yang terus-menerus mengasah ketajaman logis, metodologis, dan aksiologis riset itu. Sebagaimana hasil riset perlu selalu ditinjau konteksnya guna memperoleh pemahaman yang utuh, proses riset pun tidak terjadi dalam ruang hampa. Proses riset mesti dipandang sebagai sebuah historisitas yang melibatkan lima hal, yakni periset, subjek/objek yang diteliti, komunitas periset, komunitas penerbit hasil riset, serta komunitas penggunanya. Historisitas mencerminkan dialog berkelanjutan antar kelimanya. Kita dapat membayangkan sebuah kondisi ideal bahwa kelimanya berlomba-lomba dengan perannya masing-masing untuk bersinergi mencapai common good \(kebaikan bersama\). Dengan demikian, riset merupakan sebuah ajang dinamis yang tidak boleh direbut atau dikuasai oleh satu pihak saja. Partisipasi semua pihak pada titik proses mana saja sangat patut untuk memperoleh tempat dan apresiasi.
 
-Jika begitu, kualitas dasat apakah yang perlu dimiliki oleh para periset dan komunitasnya? Tidak lain adalah kultur terbuka, tidak hanya membuka akses tapi juga membuka diri terhadap kritik dan masukan. Jiwa-jiwa yang terbuka secara organik akan menyusun sistem-sistem yang terbuka, demokratis, dan kolaboratif. Diduga bahwa faktor penghambat pertama dari proliferasi proses dan hasil riset adalah faktor psikologis. Untuk itu, tulisan ini dibuat untuk, diantaranya, menawarkan sebuah cara pandang yang hendak membongkar ketertutupan dalam seluruh lini proses riset.
+Jika begitu, kualitas dasar apakah yang perlu dimiliki oleh para periset dan komunitasnya? Tidak lain adalah kultur terbuka, tidak hanya membuka akses tapi juga membuka diri terhadap kritik dan masukan. Jiwa-jiwa yang terbuka secara organik akan menyusun sistem-sistem yang terbuka, demokratis, dan kolaboratif. Diduga bahwa faktor penghambat pertama dari proliferasi proses dan hasil riset adalah faktor psikologis. Untuk itu, tulisan ini dibuat untuk, diantaranya, menawarkan sebuah cara pandang yang hendak membongkar ketertutupan dalam seluruh lini proses riset.
 
 `bagian ini perlu rujukan`
 
@@ -16,10 +16,10 @@ Jika begitu, kualitas dasat apakah yang perlu dimiliki oleh para periset dan kom
 
 Saat ini alur kerja riset mengikuti pola yang selama ini dianut, sejak mencari ide, mengambil data, menganalisis, menginterpretasi, dan melaporkan. Pola kerja periset yang kami amati masih bersifat _offline_. Seluruh hasil kerja tersimpan dalam _hard drive_ masing-masing periset dan yang pada saatnya akan digabungkan secara _offline_ pula.  Tipikal pola kerja adalah sebagai berikut:
 
-* **bekerja secara **_**offline**_: modus yang paling sering dilakukan adalah bekerja secara _off line_. Bilamana terjadi kolaborasi, dilakukan dengan cara pertukaran file melalui surel atau _usb drive_. Sedikit kemajuan terjadi saat ini karena penggunaan Google Drive \(produk Google\) atau OneDrive \(produk Microsoft\),
+* **bekerja secara offline**: modus yang paling sering dilakukan adalah bekerja secara _off line_. Bilamana terjadi kolaborasi, dilakukan dengan cara pertukaran file melalui surel atau _usb drive_. Sedikit kemajuan terjadi saat ini karena penggunaan Google Drive \(produk Google\) atau OneDrive \(produk Microsoft\),
 * **bekerja dengan piranti lunak berbayar**: piranti lunak yang digunakan umumnya yang berbayar, misal: Microsoft Office, SPSS, ArcGIS, Matlab, dan piranti lunak berbayar lainnya. Sangat sedikit institusi di Indonesia yang memiliki lisensi institusional terhadap penggunaan piranti lunak-piranti lunak tersebut.
-* **bekerja dengan format **_**binary**_: data diolah dalam format binary dengan piranti lunak berbayar, misal xls dari Microsoft Excel, sav dari SPSS, dll,
-* **bekerja dengan media penyimpanan data **_**off line**_: penyimpanan file dilakukan secara _off line_, begitu pula media \_backup\_nya. Peredaran datapun dibatasi di tim penulis saja,
+* **bekerja dengan format binary**: data diolah dalam format binary dengan piranti lunak berbayar, misal xls dari Microsoft Excel, sav dari SPSS, dll,
+* **bekerja dengan media penyimpanan data off line**: penyimpanan file dilakukan secara _off line_, begitu pula media _backup_-nya. Peredaran datapun dibatasi di tim penulis saja,
 * **bekerja dengan sistem diseminasi terbatas**: hasil riset ditulis sebagai laporan dan diedarkan secara terbatas. Kondisi sedikit lebih baik saat hasil riset disampaikan dalam seminar tertutup,
 * `silahkan isi dengan karakter lainnya`
 
